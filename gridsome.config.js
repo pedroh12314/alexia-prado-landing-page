@@ -16,7 +16,7 @@ module.exports = {
   siteName: 'Alexia Prado',
   siteUrl: 'siteAlexia',
   siteDescription: 'Empresa júnior da área de automação da Universidade Federal de Itajubá que atua na área de Desenvolvimento de Sistemas, Consultoria em Automação e Prototipagem',
-  icon: './static/logo.png',
+  icon: './static/favicon.png',
   metadata: {
     author: 'Alexia Prado',
     twitter: {

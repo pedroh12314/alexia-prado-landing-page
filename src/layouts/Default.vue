@@ -422,7 +422,7 @@
                 <g-link to="/" class="text-white hover:text-gray-900 py-1 block"
                   >Home</g-link
                 >
-                                <a
+                                <!-- <a
                   href="#"
                   class="text-white hover:text-gray-900 py-1 block"
                   >Currículo</a
@@ -431,7 +431,7 @@
                   href="#"
                   class="text-white hover:text-gray-900 py-1 block"
                   >Portfólio</a
-                >
+                > -->
                 <a
                   href="/blog"
                   class="text-white hover:text-gray-900 py-1 block"
