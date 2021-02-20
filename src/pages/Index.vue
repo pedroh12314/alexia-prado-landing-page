@@ -33,18 +33,18 @@
             ></path>
             <path d="M1046,51.6521276 C1130.83045,29.328812 1279.08318,17.607883 1439,40.1656806 L1439,120 C1271.17211,77.9435312 1140.17211,55.1609071 1046,51.6521276 Z" id="Path-4" opacity="0.200000003"></path>
           </g>
-          <!-- VER COMO MUDAR NO DARK -->
-          <!-- <g transform="translate(-4.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero">
+
+          <g transform="translate(-4.000000, 76.000000)" fill="#FFFFFF" fill-rule="nonzero">
             <path
               d="M0.457,34.035 C57.086,53.198 98.208,65.809 123.822,71.865 C181.454,85.495 234.295,90.29 272.033,93.459 C311.355,96.759 396.635,95.801 461.025,91.663 C486.76,90.01 518.727,86.372 556.926,80.752 C595.747,74.596 622.372,70.008 636.799,66.991 C663.913,61.324 712.501,49.503 727.605,46.128 C780.47,34.317 818.839,22.532 856.324,15.904 C922.689,4.169 955.676,2.522 1011.185,0.432 C1060.705,1.477 1097.39,3.129 1121.236,5.387 C1161.703,9.219 1208.621,17.821 1235.4,22.304 C1285.855,30.748 1354.351,47.432 1440.886,72.354 L1441.191,104.352 L1.121,104.031 L0.457,34.035 Z"
             ></path>
-          </g> -->
+          </g>
         </g>
       </svg>
     </div>
-    <section class="bg-white dark:bg-gray-800 border-b py-8">
+    <section class="bg-white border-b py-8">
       <div class="container max-w-5xl mx-auto m-8">
-        <h1 class="dark:text-gray-100 w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
+        <h1 class=" w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
           Diversos segmentos
         </h1>
         <div class="w-full mb-4">
@@ -52,10 +52,10 @@
         </div>
         <div class="flex flex-wrap">
           <div class="w-5/6 sm:w-1/2 p-6">
-            <h3 class="dark:text-gray-300 text-3xl text-gray-800 font-bold leading-none mb-3">
+            <h3 class=" text-3xl text-gray-800 font-bold leading-none mb-3">
               Lorem ipsum dolor sit amet
             </h3>
-            <p class="dark:text-gray-400 text-gray-600 mb-8">
+            <p class=" text-gray-600 mb-8">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
               <br />
               <br />
@@ -345,10 +345,10 @@
           </div>
           <div class="w-full sm:w-1/2 p-6 mt-6">
             <div class="align-middle">
-              <h3 class="dark:text-gray-300 text-3xl text-gray-800 font-bold leading-none mb-3">
+              <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
                 Lorem ipsum dolor sit amet
               </h3>
-              <p class="dark:text-gray-400 text-gray-600 mb-8">
+              <p class="text-gray-600 mb-8">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
                 <br />
                 <br />
@@ -363,8 +363,8 @@
     </section>
     <section class="bg-white border-b py-8">
       <div class="container mx-auto flex flex-wrap pt-4 pb-12">
-        <h1 class="dark:text-gray-700 w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
-          Title
+        <h1 class=" w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
+          O que é marketing digital?
         </h1>
         <div class="w-full mb-4">
           <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
@@ -373,10 +373,10 @@
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
             <a href="#" class="flex flex-wrap no-underline hover:no-underline">
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-                xGETTING STARTED
+                Atinja o público certo
               </p>
               <div class="w-full font-bold text-xl text-gray-800 px-6">
-                Lorem ipsum dolor sit amet.
+                Publicidade em mídias
               </div>
               <p class="text-gray-800 text-base px-6 mb-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
@@ -395,10 +395,10 @@
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
             <a href="#" class="flex flex-wrap no-underline hover:no-underline">
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-                xGETTING STARTED
+                Consiga mais pessoas
               </p>
               <div class="w-full font-bold text-xl text-gray-800 px-6">
-                Lorem ipsum dolor sit amet.
+                Captação de clientes
               </div>
               <p class="text-gray-800 text-base px-6 mb-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
@@ -417,10 +417,10 @@
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
             <a href="#" class="flex flex-wrap no-underline hover:no-underline">
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
-                xGETTING STARTED
+                Tenha mais visibilidade
               </p>
               <div class="w-full font-bold text-xl text-gray-800 px-6">
-                Lorem ipsum dolor sit amet.
+                Divulgação do seu negócio
               </div>
               <p class="text-gray-800 text-base px-6 mb-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.

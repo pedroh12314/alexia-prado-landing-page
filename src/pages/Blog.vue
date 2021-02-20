@@ -1,7 +1,8 @@
 <template>
   <Layout>
+    <hr class="mt-10">
     <div
-      class="container mx-auto px-5 py-10 sm:px-10 sm:py-16 xl:px-40 flex-wrap"
+      class="container mx-auto px-5 py-10 sm:px-10 sm:py-10 xl:px-40 flex-wrap"
     >
       <h2 class="text-4xl font-bold mb-8 font-display text-black dark:text-gray-50">Blog</h2>
       <div

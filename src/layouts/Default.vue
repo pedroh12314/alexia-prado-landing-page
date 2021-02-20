@@ -67,20 +67,20 @@
           </a>
 
           <!-- Currículo -->
-          <a
+          <!-- <a
             href="#"
             class="group p-3 rounded-md inline-flex items-center bg-white dark:bg-gray-900 text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500"
           >
             Currículo
-          </a>
+          </a> -->
 
           <!-- Portfólio -->
-          <a
+          <!-- <a
             href="/portfolio"
             class="group p-3 rounded-md inline-flex items-center bg-white dark:bg-gray-900 text-gray-500 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500"
           >
             Portfólio
-          </a>
+          </a> -->
 
           <!-- Blog -->
           <a
