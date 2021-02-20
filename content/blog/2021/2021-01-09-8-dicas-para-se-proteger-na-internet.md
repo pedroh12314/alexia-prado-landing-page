@@ -1,0 +1,39 @@
+---
+title: O que é Marketing Digital? Tudo sobre o conceito, como fazer e começar sua estratégia de Marketing Online em 2021
+date: 2021-01-09 12:21:33
+author: guilherme
+cover_image: ./images/8-dicas-para-se-proteger-na-internet.jpg
+tags: ['segurança', 'homeoffice']
+---
+
+Marketing Digital é a promoção de produtos ou marcas por meio de mídias digitais. Ele é uma das principais maneiras que as empresas têm para se comunicar com o público de forma direta, personalizada e no momento certo.
+Philip Kotler — considerado o pai do Marketing — conceitua marketing como “o processo social por meio do qual pessoas e grupos de pessoas satisfazem desejos e necessidades com a criação, oferta e livre negociação de produtos e serviços de valor com outros”.
+
+Porém, as maneiras de fazer com que isso aconteça sofrem mudanças quase que diariamente. Por isso, atualmente é impossível falar de marketing e ignorar que a maior parte da população mundial está conectada à internet e faz compras online.
+
+É por isso que o Marketing Digital é a principal forma de fazer e conceituar marketing nos dias de hoje. O termo é usado para resumir todos os seus esforços de marketing no ambiente online.
+
+Usando canais digitais — como blogs, sites, motores de busca, mídias sociais, email e outros —, as empresas tentam solucionar dores e desejos de clientes e potenciais clientes.
+
+Você entendeu a “sacada” do conceito apresentado pelo professor Kotler? Trata-se de um processo social! É algo que depende do acordo entre duas pessoas dentro de um contexto.
+
+Marketing Digital pode ser realizado por pessoas, empresas, universidades, ONGs, associações, igrejas… Assim, também há fatores culturais, psicológicos, geográficos, jurídicos que influenciam as pessoas na hora de comprar ou vender um produto ou serviço.
+
+E cada um deve fazer o que pode, com os meios que tem, para encontrar as oportunidades certas nesse meio!
+
+No vídeo abaixo explico quais são os conceitos mais básicos do Marketing Digital:
+
+
+Observe o conceito de marketing e adicione uma camada de internet. Esse é o “espírito” do Marketing Digital! Meios digitais envolvem computadores e a forma dominante de comunicação digital é a internet.
+
+O grande fluxo de comunicação que a web proporciona hoje favorece estratégias ágeis, como Search Engine Optimization, Inbound Marketing e Marketing de Conteúdo, como veremos nos próximos tópicos.
+
+Quando falamos de aumentar nossa rede, fortalecer a nossa marca e realizar melhores vendas, todos esses são objetivos em que o Marketing Digital é uma importante ferramenta para alcançá-los.
+
+Para chegar lá, os meios digitais são os melhores para observar e testar a efetividade das nossas ações.
+
+Por isso, o Marketing Digital é um dos melhores meios disponíveis para calcular o retorno sobre cada investimento, definir métricas mais claras e simples de medir.
+
+Não é à toa que esse conceito é chamado de novo marketing.
+
+Antes de continuarmos nosso estudo sobre o Marketing Digital, devo avisar que esse é um post extenso. Por isso, disponibilizamos este conteúdo para download! Basta preencher o formulário abaixo:

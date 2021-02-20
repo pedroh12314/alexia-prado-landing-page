@@ -1,0 +1,6 @@
+Host: https://siteAlexia.com.br/
+
+User-agent:*
+Allow: /
+
+Sitemap: https://siteAlexia.com.br/sitemap.xml

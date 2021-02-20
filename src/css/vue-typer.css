@@ -1,0 +1,17 @@
+/* purgecss start ignore */
+.vue-typer .custom.char {
+  color: #000000;
+}
+
+.vue-typer .custom.caret {
+  background-color: #000000
+}
+
+.dark .vue-typer .custom.char {
+  color: #fdfdfd;
+}
+
+.dark .vue-typer .custom.caret {
+  background-color: #fdfdfd
+}
+/* purgecss end ignore */
