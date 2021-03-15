@@ -66,12 +66,12 @@ module.exports = {
         cacheTime: 600000,
       }
     },
-    {
-      use: '@gridsome/plugin-google-analytics',
-      options: {
-        id: 'UA-156961618-1'
-      }
-    }
+    // {
+    //   use: '@gridsome/plugin-google-analytics',
+    //   options: {
+    //     id: 'UA-156961618-1'
+    //   }
+    // }
   ],
   transformers: {
     remark: {
