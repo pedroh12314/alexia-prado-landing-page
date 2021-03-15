@@ -1,6 +1,6 @@
 <template>
   <Layout>
-    <hr class="mt-10">
+    <hr class="mt-5">
     <div
       class="container mx-auto px-5 py-10 sm:px-10 sm:py-10 xl:px-40 flex-wrap"
     >
