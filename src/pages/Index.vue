@@ -12,7 +12,7 @@
           <p class="leading-normal text-2xl mb-8">
             Design gráfico, postagens e muito mais!
           </p>
-          <button class="mx-auto lg:mx-0 hover:underline bg-white text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
+          <button v-scroll-to="'#marketing'" style="background-color: #ffff; text-decoration:none" class="mx-auto lg:mx-0 hover:underline text-gray-800 font-bold rounded-full my-6 py-4 px-8 shadow-lg focus:outline-none focus:shadow-outline transform transition hover:scale-105 duration-300 ease-in-out">
             Conheça o Marketing Digital
           </button>
         </div>
@@ -42,27 +42,23 @@
         </g>
       </svg>
     </div>
-    <section class="bg-white border-b py-8">
+    <section id="marketing" class="bg-white border-b py-8">
       <div class="container max-w-5xl mx-auto m-8">
         <h1 class=" w-full my-2 text-5xl font-bold leading-tight text-center text-gray-800">
-          Diversos segmentos
+          Qual a importância do Marketing Digital?
         </h1>
         <div class="w-full mb-4">
-          <div class="h-1 mx-auto gradient w-64 opacity-25 my-0 py-0 rounded-t"></div>
+          <div class="h-1 mx-auto gradient w-64 opacity-50 my-0 py-0 rounded-t"></div>
         </div>
         <div class="flex flex-wrap">
           <div class="w-5/6 sm:w-1/2 p-6">
             <h3 class=" text-3xl text-gray-800 font-bold leading-none mb-3">
-              Lorem ipsum dolor sit amet
+              Tenha o máximo de contato com seus clientes
             </h3>
             <p class=" text-gray-600 mb-8">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
-              <br />
-              <br />
-
-              Images from:
-
-              <a class="text-pink-500 underline" href="https://undraw.co/">undraw.co</a>
+              A presença online ajuda no reconhecimento
+              da marca e em sua divulgação. Quanto mais próximo você estiver de seus clientes melhor. Para isso, 
+              é importante manter as redes sociais sempre atualizadas, com postagens de qualidade e constantes.
             </p>
           </div>
           <div class="w-full sm:w-1/2 p-6">
@@ -101,11 +97,11 @@
                 opacity=".2"
               />
               <rect x="171.5" y="111.25" width="834" height="456" rx="20.42" fill="#f2f2f2" />
-              <path d="m172 133.75h268v434h-247.58a20.42 20.42 0 0 1 -20.42 -20.42v-413.58z" fill="#ff6347" />
+              <path d="m172 133.75h268v434h-247.58a20.42 20.42 0 0 1 -20.42 -20.42v-413.58z" fill="#4e0280" />
               <path transform="translate(-11.5 -150.75)" d="M1017,282.42V294H183V282.42A20.42,20.42,0,0,1,203.42,262H996.58A20.42,20.42,0,0,1,1017,282.42Z" fill="#3f3d56" />
-              <circle cx="193" cy="127.75" r="6" fill="#ff6347" />
-              <circle cx="208" cy="127.75" r="6" fill="#ff6347" />
-              <circle cx="223" cy="127.75" r="6" fill="#ff6347" />
+              <circle cx="193" cy="127.75" r="6" fill="#4e0280" />
+              <circle cx="208" cy="127.75" r="6" fill="#4e0280" />
+              <circle cx="223" cy="127.75" r="6" fill="#4e0280" />
               <path transform="translate(-11.5 -150.75)" d="M387.5,490A66.5,66.5,0,1,1,321,423.5,66.47,66.47,0,0,1,387.5,490Z" fill="none" stroke="#f2f2f2" stroke-miterlimit="10" stroke-width="2" />
               <path transform="translate(-11.5 -150.75)" d="M325.38,467.23l8.3,13,35.53,55.59a66.5,66.5,0,0,1-103.32-8.57l43.54-84.94.91,1.43" fill="none" stroke="#f2f2f2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" />
               <path
@@ -134,10 +130,10 @@
                 d="M568.69,543.05l-19.23-15.41a2.23,2.23,0,0,0-1.39-.48,2.26,2.26,0,0,0-1.4.48l-8.37,6.81v-4.29a.2.2,0,0,0-.2-.21H532a.2.2,0,0,0-.2.21v9.38l-4.34,3.57a1.41,1.41,0,0,0-.54,1,1.45,1.45,0,0,0,.41,1.09,1.41,1.41,0,0,0,1,.42,1.47,1.47,0,0,0,.9-.31l18.7-15.06a.22.22,0,0,1,.14,0,.24.24,0,0,1,.13,0l18.71,15a1.44,1.44,0,0,0,2.33-1.19,1.45,1.45,0,0,0-.55-1Z"
                 fill="#3f3d56"
               />
-              <rect x="604" y="260.14" width="347" height="11" rx="1.24" fill="#ff6347" opacity=".3" />
-              <rect x="604" y="392.07" width="347" height="11" rx="1.24" fill="#ff6347" opacity=".3" />
-              <rect x="878" y="279.75" width="73" height="25" rx="1.24" fill="#ff6347" />
-              <rect x="878" y="411.75" width="73" height="25" rx="1.24" fill="#ff6347" />
+              <rect x="604" y="260.14" width="347" height="11" rx="1.24" fill="#ff0264" opacity=".3" />
+              <rect x="604" y="392.07" width="347" height="11" rx="1.24" fill="#ff0264" opacity=".3" />
+              <rect x="878" y="279.75" width="73" height="25" rx="1.24" fill="#ff0264" />
+              <rect x="878" y="411.75" width="73" height="25" rx="1.24" fill="#ff0264" />
               <path transform="translate(-11.5 -150.75)" d="m978.18 606.93l-1.73 2s-21.05 2-20.2 5.39 25.35-4.55 25.35-4.55z" fill="#ffc1c7" />
               <path transform="translate(-11.5 -150.75)" d="m1016.3 605.22s-22.5 8-34.74 4.56l5.69 11.39s29.05-0.86 34.18-6-5.13-9.95-5.13-9.95z" fill="#ff6584" />
               <path transform="translate(-11.5 -150.75)" d="m1016.3 605.22s-22.5 8-34.74 4.56l5.69 11.39s29.05-0.86 34.18-6-5.13-9.95-5.13-9.95z" opacity=".1" />
@@ -323,42 +319,40 @@
                 d="m1002.9 620.79s-273.2-156.82-390.82-127.11c0 0-249.27 26.825-278.15 85.84 0 0-79.237-247.61-108.12-255.87"
                 fill="none"
                 opacity=".8"
-                stroke="#ff6347"
+                stroke="#ff0264"
                 stroke-miterlimit="10"
-                stroke-width="2"
+                stroke-width="5"
               />
               <path
                 transform="translate(-11.697 -13.011)"
                 d="m333.9 579.53c45.809-122.16 458.5-257.52 458.5-257.52-58.602 14.857-180.35 171.68-180.35 171.68s-257.52-187.36-386.28-170.03c0 0 567.04 18.571 777.1 297.14"
                 fill="none"
                 opacity=".8"
-                stroke="#ff6347"
+                stroke="#ff0264"
                 stroke-miterlimit="10"
-                stroke-width="2"
+                stroke-width="5"
               />
-              <circle cx="214.07" cy="310.65" r="11.968" fill="#ff6347" />
-              <circle cx="322.2" cy="566.52" r="11.968" fill="#ff6347" />
-              <circle cx="780.7" cy="309" r="11.968" fill="#ff6347" />
-              <circle cx="991.17" cy="607.78" r="11.968" fill="#ff6347" />
-              <circle cx="600.35" cy="480.68" r="11.968" fill="#ff6347" />
+              <circle cx="214.07" cy="310.65" r="11.968" fill="#ee0264" />
+              <circle cx="322.2" cy="566.52" r="11.968" fill="#ee0264" />
+              <circle cx="780.7" cy="309" r="11.968" fill="#ee0264" />
+              <circle cx="991.17" cy="607.78" r="11.968" fill="#ee0264" />
+              <circle cx="600.35" cy="480.68" r="11.968" fill="#ee0264" />
             </svg>
           </div>
           <div class="w-full sm:w-1/2 p-6 mt-6">
             <div class="align-middle">
               <h3 class="text-3xl text-gray-800 font-bold leading-none mb-3">
-                Lorem ipsum dolor sit amet
+              Anuncie diretamente para o seu consumidor
               </h3>
               <p class="text-gray-600 mb-8">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
-                <br />
-                <br />
-                Images from:
-
-                <a class="text-pink-500 underline" href="https://undraw.co/">undraw.co</a>
-              </p>
+              A maior vantagem das redes sociais modernas está em disponibilizar aos profissionais de marketing uma complexa ferramenta
+              de anúncios para que nós possamos ter diversas formas de vender um produto. Assim, é possível criar um 
+              anúcio que chegue diretamente na pessoa que está disposta a comprar, uma vez que essas redes sabem exatamente
+              qual pessoa será mais suscetível ao anúcio através de seus comportamentos.              </p>
             </div>
           </div>
         </div>
+
       </div>
     </section>
     <section class="bg-white border-b py-8">
@@ -371,17 +365,15 @@
         </div>
         <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
-            <a href="#" class="flex flex-wrap no-underline hover:no-underline">
+              <div class="mt-10 w-full font-bold text-xl text-gray-800 px-6">
+                Publicidade em mídias
+              </div>
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
                 Atinja o público certo
               </p>
-              <div class="w-full font-bold text-xl text-gray-800 px-6">
-                Publicidade em mídias
-              </div>
               <p class="text-gray-800 text-base px-6 mb-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
               </p>
-            </a>
           </div>
           <div class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6">
             <div class="flex items-center justify-start">
@@ -393,17 +385,15 @@
         </div>
         <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
-            <a href="#" class="flex flex-wrap no-underline hover:no-underline">
+              <div class="mt-10 w-full font-bold text-xl text-gray-800 px-6">
+                Captação de clientes
+              </div>
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
                 Consiga mais pessoas
               </p>
-              <div class="w-full font-bold text-xl text-gray-800 px-6">
-                Captação de clientes
-              </div>
               <p class="text-gray-800 text-base px-6 mb-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
               </p>
-            </a>
           </div>
           <div class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6">
             <div class="flex items-center justify-center">
@@ -415,17 +405,15 @@
         </div>
         <div class="w-full md:w-1/3 p-6 flex flex-col flex-grow flex-shrink">
           <div class="flex-1 bg-white rounded-t rounded-b-none overflow-hidden shadow">
-            <a href="#" class="flex flex-wrap no-underline hover:no-underline">
+              <div class="mt-10 w-full font-bold text-xl text-gray-800 px-6">
+                Divulgação do seu negócio
+              </div>
               <p class="w-full text-gray-600 text-xs md:text-sm px-6">
                 Tenha mais visibilidade
               </p>
-              <div class="w-full font-bold text-xl text-gray-800 px-6">
-                Divulgação do seu negócio
-              </div>
               <p class="text-gray-800 text-base px-6 mb-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
               </p>
-            </a>
           </div>
           <div class="flex-none mt-auto bg-white rounded-b rounded-t-none overflow-hidden shadow p-6">
             <div class="flex items-center justify-end">
@@ -550,22 +538,22 @@
       <h3 class="my-7 text-3xl leading-tight">
         Me mande uma mensagem para que possamos conversar mais sobre seu negócio.
       </h3>
-<button
-                  type="submit"
-                  aria-label="whatsapp"
-                  v-on:click="openWhatsapp()"
-                  class="ite
-                  ms-center inline-flex justify-center px-5 py-5 mt-7 rounded-2xl focus:outline-none text-purple-500 bg-white transition duration-500 ease-in-out hover:shadow-xl transform hover:-translate-y-1"
-                >
-                <svg 
-                xmlns="http://www.w3.org/2000/svg" 
-                class="h-6 mr-5"
-                fill="rgba(0, 0, 150)"
-                viewBox="0 0 24 24">
-                  <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
-                </svg>
-                  Me chame no Whatsapp
-                </button>
+          <button
+            type="submit"
+            aria-label="whatsapp"
+            v-on:click="openWhatsapp()"
+            class="ite
+            ms-center inline-flex justify-center px-5 py-5 mt-7 rounded-2xl focus:outline-none text-purple-500 bg-white transition duration-500 ease-in-out hover:shadow-xl transform hover:-translate-y-1"
+          >
+            <svg 
+            xmlns="http://www.w3.org/2000/svg" 
+            class="h-6 mr-5"
+            fill="rgba(0, 0, 150)"
+            viewBox="0 0 24 24">
+              <path d="M.057 24l1.687-6.163c-1.041-1.804-1.588-3.849-1.587-5.946.003-6.556 5.338-11.891 11.893-11.891 3.181.001 6.167 1.24 8.413 3.488 2.245 2.248 3.481 5.236 3.48 8.414-.003 6.557-5.338 11.892-11.893 11.892-1.99-.001-3.951-.5-5.688-1.448l-6.305 1.654zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884-.001 2.225.651 3.891 1.746 5.634l-.999 3.648 3.742-.981zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.248-.695.248-1.29.173-1.414z"/>
+            </svg>
+            Me chame no Whatsapp
+          </button>
     </section>
   </Layout>
 </template>
@@ -592,7 +580,7 @@ export default {
 </script>
 
 <style>
-      .gradient {
-        background: linear-gradient(90deg, #4e0280 0%, #b31e4f 100%);
-      }
+  .gradient {
+    background: linear-gradient(90deg, #4e0280 0%, #a00043 100%);
+  }
 </style>
