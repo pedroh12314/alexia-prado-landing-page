@@ -8,7 +8,7 @@
       <div
         v-for="post in $page.posts.edges"
         :key="post.id"
-        class="lg:flex rounded-xl bg-white dark:bg-gray-800 border-2 border-gray-50 dark:border-gray-800 mb-8"
+        class="lg:flex rounded-xl bg-gray-200 dark:bg-gray-800 border-2 border-gray-50 dark:border-gray-800 mb-8"
         v-scroll-reveal
       >
         <g-image
